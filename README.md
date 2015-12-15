@@ -8,6 +8,7 @@ curl -H "Content-Type: application/json" -d '{"name":"New Item"}' http://localho
 
 
 API endpoints:
+```
 [
 	{
 		url: '/api/item/{id}',
@@ -28,3 +29,4 @@ API endpoints:
 		description: 'webserver index page' 
 	}
 ]
+```
